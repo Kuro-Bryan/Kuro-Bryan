@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile!!!
+
+
+![dancing-cat-dancing-kitten](https://user-images.githubusercontent.com/116095868/196644865-4726183f-49b0-43a0-9018-b41a88dd6f4c.gif)
+
 <!--
 **Kuro-Bryan/Kuro-Bryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
